@@ -1,6 +1,6 @@
 {
 	"name": "sfmc-nodesdk",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "Salesformce Marketing Cloud SDK for node",
 	"main": "test.js",
 	"directories": {
